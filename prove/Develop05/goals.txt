@@ -1,0 +1,5 @@
+2130
+SimpleGoal|Subir un cerro|Cima del cerro catedral|400|True
+EternalGoal|Lectura de las escrituras|3 versiculos por dia|50
+ChecklistGoal|Entregar con tiempo|entregar como maximo el viernes|100|3|3|1000
+SimpleGoal|hacer eso|sdfsdfs|30|True
